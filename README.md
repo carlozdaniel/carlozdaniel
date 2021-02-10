@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Carlos Daniel Hernandez Rodriguez</h1>
+![alt text](https://github.com/carlozdaniel/carlozdaniel/blob/main/carlos%20daniel%20hernandez%20rodriguez%20(1).gif?raw=true)
+
+
 <h3 align="center">A passionate web developer from Mexico</h3>
 
 <p align="left"> <a href="https://twitter.com/_carlinux" target="blank"><img src="https://img.shields.io/twitter/follow/_carlinux?logo=twitter&style=for-the-badge" alt="_carlinux" /></a> </p>
